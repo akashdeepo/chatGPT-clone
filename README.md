@@ -13,13 +13,13 @@ An OpenAI API key
 
 ## Installing
 
-Clone the repository to your local machine
-In the root directory of the project, run npm install to install the necessary dependencies
-In the root directory, create a file called .env and add the following line, replacing YOUR_API_KEY with your OpenAI API key:
-Copy code
-API_KEY=YOUR_API_KEY
-In the root directory, run node app.js to start the server
-In the client directory, run npm start to start the chat application
+1. Clone the repository to your local machine
+2. In the root directory of the project, run npm install to install the necessary dependencies
+3. In the root directory, create a file called .env and add the following line, replacing YOUR_API_KEY with your OpenAI API key:
+4. Copy code
+5. API_KEY=YOUR_API_KEY
+6. In the root directory, run node app.js to start the server
+7. In the client directory, run npm start to start the chat application
 
 ## Built With
 
