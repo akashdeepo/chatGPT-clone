@@ -1,4 +1,4 @@
-#OpenAI Chatbot
+# OpenAI Chatbot
 
 This is a simple chat application that utilizes OpenAI's GPT-3 model to generate responses to user input. The application consists of a server that listens for requests from the chat application and communicates with the OpenAI API to generate responses, and a chat application that allows the user to send messages and receive responses from the server.
 
